@@ -1,0 +1,13 @@
+filename = 'emotecraft-for-MC1.19.2-2.2.7-b.build.50-forge.jar'
+name = 'Emotecraft'
+side = 'both'
+
+[download]
+hash = 'e85b53aa9c742ec5366c3391692340b963ef67a9f4e624df3b3d49042b7d653858ade0ffdc671b9da0024582e8e738eb163d839fe295e54bbc66e6eed8cfcbfc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/pZ2wrerK/versions/kZGkovfR/emotecraft-for-MC1.19.2-2.2.7-b.build.50-forge.jar'
+
+[update.modrinth]
+mod-id = 'pZ2wrerK'
+version = 'kZGkovfR'

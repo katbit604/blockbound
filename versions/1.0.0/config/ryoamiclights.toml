@@ -1,0 +1,74 @@
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = true
+	self = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				chicken = true
+				bee = true
+				axolotl = true
+				arrow = true
+				donkey = true
+				cow = true
+				evoker_fangs = true
+				chest_minecart = true
+				fox = true
+				pig = true
+				slime = true
+				pillager = true
+				allay = true
+				skeleton = true
+				iron_golem = true
+				bat = true
+				cat = true
+				rabbit = true
+				zombie = true
+				firework_rocket = true
+				drowned = true
+				sheep = true
+				experience_orb = true
+				player = true
+				dolphin = true
+				item = true
+				turtle = true
+				villager = true
+				wolf = true
+				salmon = true
+				zombie_villager = true
+				goat = true
+				polar_bear = true
+				horse = true
+				phantom = true
+				glow_squid = true
+				witch = true
+				cod = true
+				squid = true
+				spider = true
+				parrot = true
+				creeper = true
+				lightning_bolt = true
+				enderman = true
+
+			[light_sources.settings.entities.ars_nouveau]
+				spell_proj = true
+				starbuncle = true
+				gift_starby = true
+				drygmy = true
+				whirlisprig = true
+
+			[light_sources.settings.entities.car]
+				car = true
+
+			[light_sources.settings.entities.simpleplanes]
+				plane = true
+				large_plane = true
+
+			[light_sources.settings.entities.mcwfurnitures]
+				chair = true
+

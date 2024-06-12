@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 7,
+  "currentVersion": "1.0.0",
+  "modpackName": "Blockbound",
+  "modpackAuthor": "katbit604 feat. Hatsune Miku",
+  "modpackReleaseType": "alpha",
+  "updateCheckerId": "https://raw.githubusercontent.com/katbit604/blockbound/main/",
+  "advanced": {
+    "bccEnabled": false,
+    "expandButton": false,
+    "updateCheckerType": 2,
+    "retroWarning": false,
+    "modpackMods": []
+  }
+}

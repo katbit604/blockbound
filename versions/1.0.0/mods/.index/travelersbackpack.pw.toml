@@ -1,0 +1,13 @@
+filename = 'travelersbackpack-forge-1.19.2-8.2.40.jar'
+name = "Traveler's Backpack"
+side = 'both'
+
+[download]
+hash = '2837c8beb05ead93e897e3c6edf01628b851e5875be306343d2311f20dfd6568fb188dc6507c3d4ee6f13f111e662ac53dbb485fd94c8bce04b35689ca7601dc'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rlloIFEV/versions/1yB62WvK/travelersbackpack-forge-1.19.2-8.2.40.jar'
+
+[update.modrinth]
+mod-id = 'rlloIFEV'
+version = '1yB62WvK'

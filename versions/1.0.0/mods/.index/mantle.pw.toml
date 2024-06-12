@@ -1,0 +1,13 @@
+filename = 'Mantle-1.19.2-1.10.36.jar'
+name = 'Mantle'
+side = 'both'
+
+[download]
+hash = 'a2ee30b8359dedde396582b4863d8905dfd90585881e3872d21ba25977713aa3f6242ca9b5ce79d72741ec0219a00c432ec4bac2b7ac5328d59d9ba413731d3d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Cg6Uc79H/versions/AliG8wlL/Mantle-1.19.2-1.10.36.jar'
+
+[update.modrinth]
+mod-id = 'Cg6Uc79H'
+version = 'AliG8wlL'

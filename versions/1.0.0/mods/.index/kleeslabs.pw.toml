@@ -1,0 +1,13 @@
+filename = 'kleeslabs-forge-1.19.2-12.3.0.jar'
+name = 'KleeSlabs'
+side = 'server'
+
+[download]
+hash = 'e8dbfa88bc34fcb3d93f12a6656a525d92165cee6f65056ca2a7973e9fcdf9c8f7c9604677f2399264223f4437912ad58af429e89a5ff25bf07c384ae43aafc7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7uh75ruZ/versions/OabgLyDQ/kleeslabs-forge-1.19.2-12.3.0.jar'
+
+[update.modrinth]
+mod-id = '7uh75ruZ'
+version = 'OabgLyDQ'

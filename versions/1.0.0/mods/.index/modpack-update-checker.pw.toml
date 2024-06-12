@@ -1,0 +1,13 @@
+filename = 'modpack-update-checker-1.19.2-forge-0.12.2.jar'
+name = 'Modpack Update Checker'
+side = 'both'
+
+[download]
+hash = '27c0b714c3eb1587f3e5594c9e9f0d798323ef74'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5193994
+project-id = 847414

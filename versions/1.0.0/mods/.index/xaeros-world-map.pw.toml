@@ -1,0 +1,13 @@
+filename = 'XaerosWorldMap_1.38.4_Forge_1.19.1.jar'
+name = "Xaero's World Map"
+side = 'client'
+
+[download]
+hash = 'ee691caa4da45e703f086d73416bd3e8517cb1347ac20a72786a0f82abbefc1a3fb10296d2d237098eace16230164937105c795fb1b7a860bbc6fc5ec511cecb'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/NcUtCpym/versions/x7A0grqn/XaerosWorldMap_1.38.4_Forge_1.19.1.jar'
+
+[update.modrinth]
+mod-id = 'NcUtCpym'
+version = 'x7A0grqn'

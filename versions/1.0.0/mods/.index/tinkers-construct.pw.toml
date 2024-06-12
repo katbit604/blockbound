@@ -1,0 +1,13 @@
+filename = 'TConstruct-1.19.2-3.8.3.39.jar'
+name = "Tinkers' Construct"
+side = 'both'
+
+[download]
+hash = 'aa9831da8a869f57b84a62eb2bd69d6011b3fb682293447a1f967920245027676ebbeae99aaaba76794107359f73dc2e06d121bae2a8036d51a1a0349c554c61'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/rxIIYO6c/versions/KpNAIJ7D/TConstruct-1.19.2-3.8.3.39.jar'
+
+[update.modrinth]
+mod-id = 'rxIIYO6c'
+version = 'KpNAIJ7D'

@@ -1,0 +1,13 @@
+filename = 'Estrogen-4.1.0+1.19.2-forge.jar'
+name = 'Create: Estrogen'
+side = 'both'
+
+[download]
+hash = '82980c68856da4ec370fdf54bb20023209949b5a1a9df33dcc1a8ff9cffc360eb6df6d1b9963429f3bde1e8311a47af25ff4d7335bcbae5f2114ab9527011674'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HhIJW8n1/versions/Fum50x3H/Estrogen-4.1.0%2B1.19.2-forge.jar'
+
+[update.modrinth]
+mod-id = 'HhIJW8n1'
+version = 'Fum50x3H'
